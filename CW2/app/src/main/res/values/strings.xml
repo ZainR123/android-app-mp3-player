@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CW2</string>
+    <string name="select_song">Select A Song</string>
+    <string name="pause_song">Pause</string>
+    <string name="resume_song">Start</string>
+    <string name="stop_song">Stop</string>
+    <string name="song_timer">00:00 – 00:00</string>
+    <string name="song_playing">\Song Playing: \</string>
+
+</resources>
